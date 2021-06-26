@@ -1,0 +1,5 @@
+{
+	"wifi": "R G B",
+	"lte" : "R G B",
+	"mesh" : [ "R G B", "R G B", "R G B" ]
+}
