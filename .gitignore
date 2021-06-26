@@ -1,0 +1,4 @@
+*.o
+/cockroach
+/obj/
+/backet/
